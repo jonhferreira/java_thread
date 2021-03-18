@@ -5,7 +5,7 @@ import java.awt.image.BufferedImage;
 import java.util.Scanner;
 
 /* Tranforma um conjunto de imagens coloridas em preto e branco
-   utilizando varias threads no preocesso(cada imagem tem sua respectiva thread)
+   utilizando varias threads no processo(cada imagem tem sua respectiva thread)
 */
 
 public class Grey_Image_Thread {
